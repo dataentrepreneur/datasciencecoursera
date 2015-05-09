@@ -1,3 +1,1 @@
 # datasciencecoursera
-
-## For science!
